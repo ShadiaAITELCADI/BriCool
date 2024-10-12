@@ -129,7 +129,19 @@ BriCOOL is a service app that allows clients to search for a nearby and suitable
 <img width="496" src="https://user-images.githubusercontent.com/106840796/215328576-d7ed77bc-1d9f-46c9-8106-daf2054a1a49.PNG">
 
 
+##  Service provider experience
+https://github.com/user-attachments/assets/3056a788-a792-4e71-b54a-24fcfcefee25
 
+## User experience
+https://github.com/user-attachments/assets/330758ce-b878-458d-9f0c-23c3c5267966
+
+## Contributors
+#### AIT EL CADI Shadia
+#### EL MIDAOUI Imane
+#### SAHEL Bouchra
+#### EL AMRANI ENNAJAR Tasnime
+#### ABOUJENANE Mariam
+#### M'HIFED Zineb
 
 
 
